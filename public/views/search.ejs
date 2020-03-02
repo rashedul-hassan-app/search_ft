@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>
+        something <%= title %>
+    </h3>
+    <p>Welcome to page <%= stuff %></p>
+    <p>Searched for <%= search_item %></p>
+
+    <h3>API data</h3>
+    <p><%= apidata.query.queryString %></p>
+    <p>
+        <%= apidata.results[0].results[0].aspectSet %>
+    </p>
+    <p>
+        <!-- <% apidata.results[0].results.forEach(function(item){ %>
+            <li><%= item.aspectSet%><br>
+                <%= item.modelVersion%><br>
+                <%= item.id%><br>
+                <%= item.apiUrl%> </li>
+        <% }); %> -->
+
+        <% var items_per_page = 10 %>
+        <h4>Displaying <%= items_per_page %> results per Page </h4>
+        <% var total_pages = apidata.results[0].results.length / items_per_page; %>
+        <% var start_item = page_num * items_per_page;%>
+        <% var end_item = start_item + items_per_page;%>
+
+        <% for(var i = start_item; i <= end_item; i++){ %>
+            <li><%= apidata.results[0].results[i].aspectSet; %><br>
+                <%= apidata.results[0].results[i].modelVersion; %><br>
+                <%= apidata.results[0].results[i].id; %><br>
+                <%= apidata.results[0].results[i].apiUrl; %> </li>
+        <% } %>
+    </p>
+
+    <p>Page Number: <%= page_num %> </p>
+
+    
+    <p>
+    <% for (var i = 1; i <= total_pages; i++){ %>
+       <a href = '/search?find=<%=search_item%>&page_num=<%= i %>'>|  Page <%= i %>  |</a>
+    <% } %> 
+    </p>
+</body>
+</html>
