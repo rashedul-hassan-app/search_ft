@@ -1,6 +1,6 @@
 {
     "query": {
-        "queryString": "Brexit",
+        "queryString": "brexit",
         "queryContext": {
             "curations": [
                 "ARTICLES",
@@ -13,6 +13,9 @@
         "resultContext": {
             "maxResults": 100,
             "offset": 0,
+            "aspects": [
+                "title"
+            ],
             "contextual": true,
             "highlight": false,
             "suppressDefaultSort": false
@@ -20,7 +23,7 @@
     },
     "results": [
         {
-            "indexCount": 36016,
+            "indexCount": 36042,
             "curations": [
                 "ARTICLES",
                 "BLOGS",
@@ -32,602 +35,902 @@
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
+                    "id": "3aef20b0-5c8f-11ea-8033-fa40a0d65a98",
+                    "apiUrl": "https://api.ft.com/content/3aef20b0-5c8f-11ea-8033-fa40a0d65a98",
+                    "title": {
+                        "title": "US trade deal to boost UK economy by 0.16% over 15 years"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "81e161e0-5ca3-11ea-b0ab-339c2307bcd4",
+                    "apiUrl": "https://api.ft.com/content/81e161e0-5ca3-11ea-b0ab-339c2307bcd4",
+                    "title": {
+                        "title": "EU migration pact with Turkey on brink of collapse"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "8968f4f6-5ca2-11ea-8033-fa40a0d65a98",
+                    "apiUrl": "https://api.ft.com/content/8968f4f6-5ca2-11ea-8033-fa40a0d65a98",
+                    "title": {
+                        "title": "Priti Patel to face government probe into alleged bullying"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "aeac26dc-5ca9-11ea-b0ab-339c2307bcd4",
+                    "apiUrl": "https://api.ft.com/content/aeac26dc-5ca9-11ea-b0ab-339c2307bcd4",
+                    "title": {
+                        "title": "UK seeks EU assurance on deadline for financial market access"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "71474c28-5cad-11ea-b0ab-339c2307bcd4",
+                    "apiUrl": "https://api.ft.com/content/71474c28-5cad-11ea-b0ab-339c2307bcd4",
+                    "title": {
+                        "title": "Silicon Valley’s Super Tuesday picks"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "70a94ada-5c6e-11ea-b0ab-339c2307bcd4",
+                    "apiUrl": "https://api.ft.com/content/70a94ada-5c6e-11ea-b0ab-339c2307bcd4",
+                    "title": {
+                        "title": "Coronavirus means Johnson must govern not feud"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "21dd83c8-5c8f-11ea-b0ab-339c2307bcd4",
+                    "apiUrl": "https://api.ft.com/content/21dd83c8-5c8f-11ea-b0ab-339c2307bcd4",
+                    "title": {
+                        "title": "Boris Johnson warns ‘likely’ coronavirus will continue to spread"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "239afa26-5c92-11ea-b0ab-339c2307bcd4",
+                    "apiUrl": "https://api.ft.com/content/239afa26-5c92-11ea-b0ab-339c2307bcd4",
+                    "title": {
+                        "title": "Hardening UK language leaves EU perplexed"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "691390ca-53d9-11ea-90ad-25e377c0ee1f",
+                    "apiUrl": "https://api.ft.com/content/691390ca-53d9-11ea-90ad-25e377c0ee1f",
+                    "title": {
+                        "title": "FT 1000: the fourth annual list of Europe’s fastest-growing companies"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "b1c7f0b6-5c6e-11ea-8033-fa40a0d65a98",
+                    "apiUrl": "https://api.ft.com/content/b1c7f0b6-5c6e-11ea-8033-fa40a0d65a98",
+                    "title": {
+                        "title": "Brexit solved with the sword of Damocles"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "fa9b9104-5c09-11ea-b0ab-339c2307bcd4",
+                    "apiUrl": "https://api.ft.com/content/fa9b9104-5c09-11ea-b0ab-339c2307bcd4",
+                    "title": {
+                        "title": "The whistle blows and the big EU-UK match gets under way"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "b89a6f7c-a6a9-4aac-a4f0-ba765b01f3cd",
+                    "apiUrl": "https://api.ft.com/content/b89a6f7c-a6a9-4aac-a4f0-ba765b01f3cd",
+                    "title": {
+                        "title": "Extraordinary complacency: the coronavirus and emerging markets"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "26795018-5705-11ea-a528-dd0f971febbc",
+                    "apiUrl": "https://api.ft.com/content/26795018-5705-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "UK Labour leadership contenders are neglecting the hard choices"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "9b633c60-5c67-11ea-b0ab-339c2307bcd4",
+                    "apiUrl": "https://api.ft.com/content/9b633c60-5c67-11ea-b0ab-339c2307bcd4",
+                    "title": {
+                        "title": "New orders help rise in February manufacturing activity"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "894e8064-5c19-11ea-8033-fa40a0d65a98",
+                    "apiUrl": "https://api.ft.com/content/894e8064-5c19-11ea-8033-fa40a0d65a98",
+                    "title": {
+                        "title": "FirstFT: Today’s top stories"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "b3d1c9f8-5c5b-11ea-b0ab-339c2307bcd4",
+                    "apiUrl": "https://api.ft.com/content/b3d1c9f8-5c5b-11ea-b0ab-339c2307bcd4",
+                    "title": {
+                        "title": "Opening Quote: Deutsche Bank told to improve anti-money laundering and compliance controls"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "91ecda4e-5c2e-11ea-8033-fa40a0d65a98",
+                    "apiUrl": "https://api.ft.com/content/91ecda4e-5c2e-11ea-8033-fa40a0d65a98",
+                    "title": {
+                        "title": "Negotiators to lock horns in Brussels as EU-UK talks get underway"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "ae2951a0-5b85-11ea-b0ab-339c2307bcd4",
+                    "apiUrl": "https://api.ft.com/content/ae2951a0-5b85-11ea-b0ab-339c2307bcd4",
+                    "title": {
+                        "title": "UK competition watchdog is most active antitrust enforcer"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "97ffaffe-5983-11ea-a528-dd0f971febbc",
+                    "apiUrl": "https://api.ft.com/content/97ffaffe-5983-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "UK regulator warns Deutsche over repeated compliance failings"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "d55f26c6-5a3d-11ea-abe5-8e03987b7b20",
+                    "apiUrl": "https://api.ft.com/content/d55f26c6-5a3d-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Business group calls for more customs agents funding"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "e513f200-597e-11ea-a528-dd0f971febbc",
+                    "apiUrl": "https://api.ft.com/content/e513f200-597e-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "UK’s Galileo rival delayed amid wrangling and rising costs"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "9a08c37a-5be6-11ea-b0ab-339c2307bcd4",
+                    "apiUrl": "https://api.ft.com/content/9a08c37a-5be6-11ea-b0ab-339c2307bcd4",
+                    "title": {
+                        "title": "Britain to set out mandate for post-Brexit US deal"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "7451a1b8-5bac-11ea-b0ab-339c2307bcd4",
+                    "apiUrl": "https://api.ft.com/content/7451a1b8-5bac-11ea-b0ab-339c2307bcd4",
+                    "title": {
+                        "title": "Boris Johnson backs Priti Patel after top civil servant’s parting shot"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "3ee26b82-5960-11ea-a528-dd0f971febbc",
+                    "apiUrl": "https://api.ft.com/content/3ee26b82-5960-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "There is a landing zone for a UK-EU trade deal"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "7d3f6f0a-5957-11ea-a528-dd0f971febbc",
+                    "apiUrl": "https://api.ft.com/content/7d3f6f0a-5957-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "UK-EU talks, Super Tuesday, Israel elections, Opec meeting"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
+                    "id": "2de81072-5a1c-11ea-a528-dd0f971febbc",
+                    "apiUrl": "https://api.ft.com/content/2de81072-5a1c-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "Let battle commence: Britain and EU hunker down for talks"
+                    }
+                },
+                {
+                    "aspectSet": "article",
+                    "modelVersion": "1",
                     "id": "c3297866-5b4c-11ea-b0ab-339c2307bcd4",
-                    "apiUrl": "https://api.ft.com/content/c3297866-5b4c-11ea-b0ab-339c2307bcd4"
+                    "apiUrl": "https://api.ft.com/content/c3297866-5b4c-11ea-b0ab-339c2307bcd4",
+                    "title": {
+                        "title": "Criticism mounts for ‘farcical’ RBS-funded UK banking scheme"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "c49c986e-5a42-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/c49c986e-5a42-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/c49c986e-5a42-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "The UK’s threat to walk out of EU trade talks is real"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "59e39782-5a3a-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/59e39782-5a3a-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/59e39782-5a3a-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "European companies warned over lack of Brexit planning"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "86bdebac-5a1e-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/86bdebac-5a1e-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/86bdebac-5a1e-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Ireland’s central banker warns on homes spending spree"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "9600e5fe-5a20-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/9600e5fe-5a20-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/9600e5fe-5a20-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "UK Budget must borrow to spend but not increase taxes"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "10e8c106-5adf-11ea-b0ab-339c2307bcd4",
-                    "apiUrl": "https://api.ft.com/content/10e8c106-5adf-11ea-b0ab-339c2307bcd4"
+                    "apiUrl": "https://api.ft.com/content/10e8c106-5adf-11ea-b0ab-339c2307bcd4",
+                    "title": {
+                        "title": "Home Office chief Philip Rutnam quits"
+                    }
                 },
                 {
                     "aspectSet": "video",
                     "modelVersion": "1",
                     "id": "c9bfbb33-66cd-451e-b35e-0d2ba48415e1",
-                    "apiUrl": "https://api.ft.com/content/c9bfbb33-66cd-451e-b35e-0d2ba48415e1"
+                    "apiUrl": "https://api.ft.com/content/c9bfbb33-66cd-451e-b35e-0d2ba48415e1",
+                    "title": {
+                        "title": "Brexit mandates, civil service wars, the Budget and Labour leadership"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "23debec6-5a0f-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/23debec6-5a0f-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/23debec6-5a0f-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "Companies’ silence on coronavirus could be storing up problems"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "4f3a60e8-5a41-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/4f3a60e8-5a41-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/4f3a60e8-5a41-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "France warns UK on ‘artificial’ Brexit talks deadlines"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "d90497bc-5721-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/d90497bc-5721-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/d90497bc-5721-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "Spear’s magazine sues founder over alleged non-compete breach"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "6124beb8-5724-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/6124beb8-5724-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/6124beb8-5724-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "How to navigate the US-China trade war"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "bbbd1f46-5a2b-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/bbbd1f46-5a2b-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/bbbd1f46-5a2b-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "The political, ideological and commercial logic of Brexit"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "39b0966e-5a20-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/39b0966e-5a20-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/39b0966e-5a20-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "BASF warns of ‘significant impact’ on business from coronavirus"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "62df9cb0-5985-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/62df9cb0-5985-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/62df9cb0-5985-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Paris: a rather exclusive global financial centre"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "f97ef746-5968-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/f97ef746-5968-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/f97ef746-5968-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "Heat but not much light at Carney’s climate launch"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "0390176c-57d2-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/0390176c-57d2-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/0390176c-57d2-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "How Britain fell back in love with the railways"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "52d51bc0-59ca-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/52d51bc0-59ca-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/52d51bc0-59ca-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "PE: the view from SuperReturn"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "592aef74-5955-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/592aef74-5955-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/592aef74-5955-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Barclay family feud takes a grave turn"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "2247cf46-5968-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/2247cf46-5968-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/2247cf46-5968-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Appeal court puts Heathrow third runway back in holding pattern"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "6cf7bba6-598f-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/6cf7bba6-598f-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/6cf7bba6-598f-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Border red tape will mean 50,000 new form-fillers after Brexit"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "af6bc466-5960-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/af6bc466-5960-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/af6bc466-5960-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Time has run out for Heathrow expansion"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "ecf93ec8-5972-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/ecf93ec8-5972-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/ecf93ec8-5972-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "UK told to do more to reach vulnerable EU citizens, says watchdog"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "0e932510-58b7-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/0e932510-58b7-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/0e932510-58b7-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Rishi Sunak should opt for masterly inactivity in his first UK Budget"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "0d1645b6-5946-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/0d1645b6-5946-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/0d1645b6-5946-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Boris Johnson to threaten to walk away from Brexit trade talks"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "7727c314-5953-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/7727c314-5953-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/7727c314-5953-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "EU-UK trade talks: four key battle lines for post-Brexit settlement"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "eb4c2506-594d-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/eb4c2506-594d-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/eb4c2506-594d-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Conservatives hit election record of £37.4m in big donations"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "e7f29e18-5884-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/e7f29e18-5884-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/e7f29e18-5884-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Colnaghi will arrive at Tefaf with a new owner"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "89f784dc-595f-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/89f784dc-595f-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/89f784dc-595f-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "UK-EU: a question of trust"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "1c257e0e-5960-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/1c257e0e-5960-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/1c257e0e-5960-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "Citi consolidates European leadership in Frankfurt"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "3b313d9e-5945-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/3b313d9e-5945-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/3b313d9e-5945-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "President Sanders and President Trump: how similar on trade?"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "860e8394-58aa-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/860e8394-58aa-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/860e8394-58aa-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "FirstFT: Today’s top stories"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "0d4f7482-5930-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/0d4f7482-5930-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/0d4f7482-5930-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "Aston Martin losses deepen following turbulent year"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "e9203af0-589f-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/e9203af0-589f-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/e9203af0-589f-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Boris Johnson’s ‘levelling-up’ plan carries £1tn price tag"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "03c1e302-58a2-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/03c1e302-58a2-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/03c1e302-58a2-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "Top City bosses reject post-Brexit ‘Singapore on Thames’"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "3cbe3f5c-58b6-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/3cbe3f5c-58b6-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/3cbe3f5c-58b6-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Heathrow braced for court ruling on third runway"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "84c4cfee-58b3-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/84c4cfee-58b3-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/84c4cfee-58b3-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Boris Johnson goes back on trade deal pledges to Brussels"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "2e257e96-58b2-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/2e257e96-58b2-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/2e257e96-58b2-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Diageo’s coronavirus disclosure creates as much doubt as clarity"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "4a3fbc10-5892-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/4a3fbc10-5892-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/4a3fbc10-5892-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "Environment secretary faces UK farmers’ anger over food standards"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "81d9282e-589b-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/81d9282e-589b-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/81d9282e-589b-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "The highest hurdle to a UK-EU trade deal"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "d34b601e-5814-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/d34b601e-5814-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/d34b601e-5814-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "EU hopes to whet Trump’s appetite with market access offer"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "d570e17e-57d9-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/d570e17e-57d9-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/d570e17e-57d9-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "FirstFT: Today’s top stories"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "90ad8d12-57de-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/90ad8d12-57de-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/90ad8d12-57de-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Boris Johnson should handle Whitehall with care"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "5f2bc0b8-5876-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/5f2bc0b8-5876-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/5f2bc0b8-5876-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Blackstone to buy UK student flats from Goldman for £4.7bn"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "e5c5fcdc-5854-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/e5c5fcdc-5854-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/e5c5fcdc-5854-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "Digging beneath the EU’s climate law"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "ae259de2-57db-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/ae259de2-57db-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/ae259de2-57db-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "EU trade chief believes ‘mini deal’ with US is within reach"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "56c95706-54c4-11ea-8841-482eed0038b1",
-                    "apiUrl": "https://api.ft.com/content/56c95706-54c4-11ea-8841-482eed0038b1"
+                    "apiUrl": "https://api.ft.com/content/56c95706-54c4-11ea-8841-482eed0038b1",
+                    "title": {
+                        "title": "Outer London most exposed to new immigration rules"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "e0ca01ee-57cb-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/e0ca01ee-57cb-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/e0ca01ee-57cb-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Markets are too complacent about coronavirus despite sell-off"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "67f505c4-57ea-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/67f505c4-57ea-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/67f505c4-57ea-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "New small business group aims to ‘shrug off Brexit gloom’"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "cd17923e-5824-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/cd17923e-5824-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/cd17923e-5824-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Junk bond spreads surge as investors consider virus risks"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "0150bbde-57f3-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/0150bbde-57f3-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/0150bbde-57f3-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "Britain’s submarines to use US technology for nuclear warheads"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "7d0bb2fc-57b6-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/7d0bb2fc-57b6-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/7d0bb2fc-57b6-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "Michel Barnier irritated by UK stance ahead of trade talks"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "d6c2cc90-57d4-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/d6c2cc90-57d4-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/d6c2cc90-57d4-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "Gina Miller attacks Andrew Bailey’s Bank of England governor move"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "e16cf830-57b8-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/e16cf830-57b8-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/e16cf830-57b8-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "De La Rue announces cost cuts to revitalise business"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "ae16d39a-57c0-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/ae16d39a-57c0-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/ae16d39a-57c0-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "UK-EU trade talks: the problems — and potential solutions"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "a5a74ba4-57ca-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/a5a74ba4-57ca-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/a5a74ba4-57ca-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "English farmers face subsidy cuts of up to 25%"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "556563ac-57d3-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/556563ac-57d3-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/556563ac-57d3-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "David Davis: France wedded to ‘lunatic mythology’"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "55a78456-57b2-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/55a78456-57b2-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/55a78456-57b2-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Coronavirus: the economic risk of overreaction"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "7ddf986c-1b7f-499a-a88e-2c0bd1ed1d7b",
-                    "apiUrl": "https://api.ft.com/content/7ddf986c-1b7f-499a-a88e-2c0bd1ed1d7b"
+                    "apiUrl": "https://api.ft.com/content/7ddf986c-1b7f-499a-a88e-2c0bd1ed1d7b",
+                    "title": {
+                        "title": "Prudential/Third Point: Split verdict"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "5a393b5a-4f23-11ea-95a0-43d18ec715f5",
-                    "apiUrl": "https://api.ft.com/content/5a393b5a-4f23-11ea-95a0-43d18ec715f5"
+                    "apiUrl": "https://api.ft.com/content/5a393b5a-4f23-11ea-95a0-43d18ec715f5",
+                    "title": {
+                        "title": "Thomas Piketty’s ‘Capital and Ideology’: scholarship without solutions"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "35003f82-565d-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/35003f82-565d-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/35003f82-565d-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Gains in UK life expectancy stall after decade of austerity, report says"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "33c0d50e-571c-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/33c0d50e-571c-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/33c0d50e-571c-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "UK insurers call for pension advice rethink"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "c10b77ea-5729-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/c10b77ea-5729-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/c10b77ea-5729-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "Revolut valued at $5.5bn in long-awaited funding round"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "737b79aa-56ff-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/737b79aa-56ff-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/737b79aa-56ff-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Mark Sedwill seeks end to Whitehall briefing war"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "759f3238-570b-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/759f3238-570b-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/759f3238-570b-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Tucker’s HSBC is turning from teaser of bankers to teased bank"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "ca2a67a8-56fe-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/ca2a67a8-56fe-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/ca2a67a8-56fe-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "UK lays down red line for Brexit trade talks"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "58317c6c-571d-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/58317c6c-571d-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/58317c6c-571d-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "US 10-year Treasury yield nears record low"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "52c5a166-532d-11ea-a1ef-da1721a0541e",
-                    "apiUrl": "https://api.ft.com/content/52c5a166-532d-11ea-a1ef-da1721a0541e"
+                    "apiUrl": "https://api.ft.com/content/52c5a166-532d-11ea-a1ef-da1721a0541e",
+                    "title": {
+                        "title": "The UK should diverge on domestic financial services"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "fa51eff8-5705-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/fa51eff8-5705-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/fa51eff8-5705-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "For the Johnson government, will pride come before a fall?"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "ba391bc6-7348-43c0-8e21-540334e2d006",
-                    "apiUrl": "https://api.ft.com/content/ba391bc6-7348-43c0-8e21-540334e2d006"
+                    "apiUrl": "https://api.ft.com/content/ba391bc6-7348-43c0-8e21-540334e2d006",
+                    "title": {
+                        "title": "Coronavirus/drugmakers: nil pill"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "fccf588e-5687-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/fccf588e-5687-11ea-abe5-8e03987b7b20"
+                    "apiUrl": "https://api.ft.com/content/fccf588e-5687-11ea-abe5-8e03987b7b20",
+                    "title": {
+                        "title": "Why lawyers and architects could be losers in UK-EU trade deal"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "693ac4a4-5656-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/693ac4a4-5656-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/693ac4a4-5656-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "FirstFT: Today’s top stories"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "1ef44960-56e2-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/1ef44960-56e2-11ea-a528-dd0f971febbc"
+                    "apiUrl": "https://api.ft.com/content/1ef44960-56e2-11ea-a528-dd0f971febbc",
+                    "title": {
+                        "title": "News group Reach embarks on data push to counter falling ad sales"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "45278b73-7591-42a1-9760-c647fabd2e4b",
-                    "apiUrl": "https://api.ft.com/content/45278b73-7591-42a1-9760-c647fabd2e4b"
+                    "apiUrl": "https://api.ft.com/content/45278b73-7591-42a1-9760-c647fabd2e4b",
+                    "title": {
+                        "title": "Barclays/Jes Staley: Europe’s last investment banker"
+                    }
                 },
                 {
                     "aspectSet": "article",
                     "modelVersion": "1",
                     "id": "38c3e482-54e8-11ea-90ad-25e377c0ee1f",
-                    "apiUrl": "https://api.ft.com/content/38c3e482-54e8-11ea-90ad-25e377c0ee1f"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "bc870fa0-56b0-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/bc870fa0-56b0-11ea-abe5-8e03987b7b20"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "de4eeec6-5680-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/de4eeec6-5680-11ea-abe5-8e03987b7b20"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "2ee82206-5408-11ea-90ad-25e377c0ee1f",
-                    "apiUrl": "https://api.ft.com/content/2ee82206-5408-11ea-90ad-25e377c0ee1f"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "4e4175ec-5324-11ea-90ad-25e377c0ee1f",
-                    "apiUrl": "https://api.ft.com/content/4e4175ec-5324-11ea-90ad-25e377c0ee1f"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "5953739c-3b94-11ea-b84f-a62c46f39bc2",
-                    "apiUrl": "https://api.ft.com/content/5953739c-3b94-11ea-b84f-a62c46f39bc2"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "30ccb722-421e-11ea-bdb5-169ba7be433d",
-                    "apiUrl": "https://api.ft.com/content/30ccb722-421e-11ea-bdb5-169ba7be433d"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "20148324-54a2-11ea-8841-482eed0038b1",
-                    "apiUrl": "https://api.ft.com/content/20148324-54a2-11ea-8841-482eed0038b1"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "7b4b8bbe-5670-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/7b4b8bbe-5670-11ea-abe5-8e03987b7b20"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "3cfd6e00-53d6-11ea-90ad-25e377c0ee1f",
-                    "apiUrl": "https://api.ft.com/content/3cfd6e00-53d6-11ea-90ad-25e377c0ee1f"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "74e463b8-563e-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/74e463b8-563e-11ea-abe5-8e03987b7b20"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "98f18044-5641-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/98f18044-5641-11ea-abe5-8e03987b7b20"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "0f62fd52-54a8-11ea-8841-482eed0038b1",
-                    "apiUrl": "https://api.ft.com/content/0f62fd52-54a8-11ea-8841-482eed0038b1"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "4998e368-5626-11ea-a528-dd0f971febbc",
-                    "apiUrl": "https://api.ft.com/content/4998e368-5626-11ea-a528-dd0f971febbc"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "70f4aed4-526a-11ea-8841-482eed0038b1",
-                    "apiUrl": "https://api.ft.com/content/70f4aed4-526a-11ea-8841-482eed0038b1"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "0b5f104f-80c5-462f-acd5-4744b5778401",
-                    "apiUrl": "https://api.ft.com/content/0b5f104f-80c5-462f-acd5-4744b5778401"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "deca0138-4e56-11ea-95a0-43d18ec715f5",
-                    "apiUrl": "https://api.ft.com/content/deca0138-4e56-11ea-95a0-43d18ec715f5"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "8e880caa-5587-11ea-abe5-8e03987b7b20",
-                    "apiUrl": "https://api.ft.com/content/8e880caa-5587-11ea-abe5-8e03987b7b20"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "8a166ff6-54b3-11ea-8841-482eed0038b1",
-                    "apiUrl": "https://api.ft.com/content/8a166ff6-54b3-11ea-8841-482eed0038b1"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "5be6faf2-54e4-11ea-8841-482eed0038b1",
-                    "apiUrl": "https://api.ft.com/content/5be6faf2-54e4-11ea-8841-482eed0038b1"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "c3e2ef6e-53ed-11ea-8841-482eed0038b1",
-                    "apiUrl": "https://api.ft.com/content/c3e2ef6e-53ed-11ea-8841-482eed0038b1"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "5a3ff1ce-5276-11ea-90ad-25e377c0ee1f",
-                    "apiUrl": "https://api.ft.com/content/5a3ff1ce-5276-11ea-90ad-25e377c0ee1f"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "9d06f5c6-2e82-4296-8a05-f79561014f21",
-                    "apiUrl": "https://api.ft.com/content/9d06f5c6-2e82-4296-8a05-f79561014f21"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "70703996-4f32-11ea-95a0-43d18ec715f5",
-                    "apiUrl": "https://api.ft.com/content/70703996-4f32-11ea-95a0-43d18ec715f5"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "2c8b7e12-54ae-11ea-8841-482eed0038b1",
-                    "apiUrl": "https://api.ft.com/content/2c8b7e12-54ae-11ea-8841-482eed0038b1"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "46339f54-5489-11ea-a1ef-da1721a0541e",
-                    "apiUrl": "https://api.ft.com/content/46339f54-5489-11ea-a1ef-da1721a0541e"
-                },
-                {
-                    "aspectSet": "article",
-                    "modelVersion": "1",
-                    "id": "3050986e-53fc-11ea-8841-482eed0038b1",
-                    "apiUrl": "https://api.ft.com/content/3050986e-53fc-11ea-8841-482eed0038b1"
+                    "apiUrl": "https://api.ft.com/content/38c3e482-54e8-11ea-90ad-25e377c0ee1f",
+                    "title": {
+                        "title": "Bloomberg, Warren and the exhausted middle"
+                    }
                 }
             ]
         }

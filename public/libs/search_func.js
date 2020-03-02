@@ -46,8 +46,8 @@ module.exports = function(searchString)
         console.log(data);
     });
 
-    const postData = JSON.stringify({"queryString" : searchString});
-
+    const postData = JSON.stringify({"queryString":searchString,"resultContext":{"aspects":["title"]}});
+    
     api_request.write(postData);
     api_request.end();
 
