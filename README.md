@@ -16,7 +16,7 @@ This page is built with Javascript and NodeJS
 
 It does not rely on any client site architecture like Angular JS or does not use any JQuery.
 
-Currently uses Orgiami components as used in the FT page. 
+Currently uses Orgiami components as used in the FT page. Nothing fancy has been added at all.
 
 The app can be progressively advanced. It is such an exciting project and there is so much to build on. As an example, next up would be to allow sorting feature.
 
@@ -29,3 +29,7 @@ App performs well over 3G connections. App makes use of Service Workers to make 
 
 # Additional Comments
  Testing is done via C# NUnit. The whole process has been quite an interesting and a learning curve. There is so much more that can be developed on top of it, however to keep within timeframe, this version has been submitted.
+ 
+ 
+ # Dependencies
+ This app has been built with Express for scripting. And EJS has been used for HTML template generations.
