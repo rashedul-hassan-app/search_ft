@@ -3,7 +3,7 @@
 This project builds a server-rendered site that displays an article heading from The Financial Times and can be visited via https://shielded-brook-07382.herokuapp.com/
 
 
-# Features
+# Task Objectives Answered:
 
 The site is responsive, and is accessible on Heroku.
 
@@ -25,3 +25,7 @@ It is deployed on Heroku.
 Has a similar look to FT sites.
 
 App performs well over 3G connections. App makes use of Service Workers to make assets available offline and uses caching on API calls. As a result, offline support for already searched queries are available. Multiple search results can be visited without any issues.
+
+
+# Additional Comments
+ Testing is done via C# NUnit. The whole process has been quite an interesting and a learning curve. There is so much more that can be developed on top of it, however to keep within timeframe, this version has been submitted.
