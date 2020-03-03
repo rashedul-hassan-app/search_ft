@@ -1,4 +1,4 @@
-# search_ft
+# Project Search_FT
  
 This project builds a server-rendered site that displays an article heading from The Financial Times and can be visited via https://shielded-brook-07382.herokuapp.com/
 
