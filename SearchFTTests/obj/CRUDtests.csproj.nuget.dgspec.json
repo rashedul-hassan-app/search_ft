@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/CRUDtests.csproj": {}
+  },
+  "projects": {
+    "/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/CRUDtests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/CRUDtests.csproj",
+        "projectName": "CRUDtests",
+        "projectPath": "/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/CRUDtests.csproj",
+        "packagesPath": "/Users/RGold/.nuget/packages/",
+        "outputPath": "/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/RGold/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[80.0.3987.10600, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

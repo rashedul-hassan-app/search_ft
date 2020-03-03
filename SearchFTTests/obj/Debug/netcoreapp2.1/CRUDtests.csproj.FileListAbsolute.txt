@@ -1,0 +1,28 @@
+/Users/RGold/Projects/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/RGold/Projects/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/RGold/Projects/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/nunit.engine.dll
+/Users/RGold/Projects/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/nunit.engine.api.dll
+/Users/RGold/Projects/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/CRUDtests.deps.json
+/Users/RGold/Projects/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/CRUDtests.runtimeconfig.json
+/Users/RGold/Projects/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/CRUDtests.runtimeconfig.dev.json
+/Users/RGold/Projects/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/CRUDtests.dll
+/Users/RGold/Projects/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/CRUDtests.pdb
+/Users/RGold/Projects/CRUDtests/CRUDtests/obj/Debug/netcoreapp2.1/CRUDtests.AssemblyInfoInputs.cache
+/Users/RGold/Projects/CRUDtests/CRUDtests/obj/Debug/netcoreapp2.1/CRUDtests.AssemblyInfo.cs
+/Users/RGold/Projects/CRUDtests/CRUDtests/obj/Debug/netcoreapp2.1/CRUDtests.dll
+/Users/RGold/Projects/CRUDtests/CRUDtests/obj/Debug/netcoreapp2.1/CRUDtests.pdb
+/Users/RGold/Projects/CRUDtests/CRUDtests/obj/Debug/netcoreapp2.1/CRUDtests.csprojAssemblyReference.cache
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/nunit.engine.dll
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/nunit.engine.api.dll
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/CRUDtests.deps.json
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/CRUDtests.runtimeconfig.json
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/CRUDtests.runtimeconfig.dev.json
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/CRUDtests.dll
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/CRUDtests.pdb
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/obj/Debug/netcoreapp2.1/CRUDtests.csprojAssemblyReference.cache
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/obj/Debug/netcoreapp2.1/CRUDtests.AssemblyInfoInputs.cache
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/obj/Debug/netcoreapp2.1/CRUDtests.AssemblyInfo.cs
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/obj/Debug/netcoreapp2.1/CRUDtests.dll
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/obj/Debug/netcoreapp2.1/CRUDtests.pdb

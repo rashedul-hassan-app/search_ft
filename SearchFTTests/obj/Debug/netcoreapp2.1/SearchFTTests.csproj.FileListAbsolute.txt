@@ -1,0 +1,14 @@
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/nunit.engine.dll
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/nunit.engine.api.dll
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/SearchFTTests.deps.json
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/SearchFTTests.runtimeconfig.json
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/SearchFTTests.runtimeconfig.dev.json
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/SearchFTTests.dll
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/bin/Debug/netcoreapp2.1/SearchFTTests.pdb
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/obj/Debug/netcoreapp2.1/SearchFTTests.csprojAssemblyReference.cache
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/obj/Debug/netcoreapp2.1/SearchFTTests.AssemblyInfoInputs.cache
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/obj/Debug/netcoreapp2.1/SearchFTTests.AssemblyInfo.cs
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/obj/Debug/netcoreapp2.1/SearchFTTests.dll
+/Users/RGold/Documents/GitHub/ft_internal_products/End2End Test C#/CRUDtests/CRUDtests/obj/Debug/netcoreapp2.1/SearchFTTests.pdb
