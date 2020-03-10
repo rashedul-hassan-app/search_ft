@@ -3,7 +3,7 @@
 This project builds a server-rendered site that displays an article heading from The Financial Times and can be visited via https://shielded-brook-07382.herokuapp.com/
 
 
-## Task Objectives Answered :
+## Features :
 
 The site is responsive, and is accessible on Heroku.
 
