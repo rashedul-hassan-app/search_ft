@@ -28,7 +28,7 @@ App performs well over 3G connections. App makes use of Service Workers to make 
 
 
 ## Additional Comments
- Testing is done via C# NUnit. The whole process has been quite an interesting and a learning curve. There is so much more that can be developed on top of it, however to keep within timeframe, this version has been submitted.
+ End to End Testing is done via C# NUnit. Could have also been done using NodeJS and selenium.
  
  
  ## Dependencies
